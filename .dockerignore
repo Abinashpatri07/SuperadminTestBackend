@@ -7,3 +7,4 @@ uploads/*
 .github
 Dockerfile
 .dockerignore
+docker-compose*.yml
